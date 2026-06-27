@@ -1,0 +1,24 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.mif
+*.backup.jou
+*.backup.log
+.Xil/
+
+# Vivado project runs (regenerated automatically)
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# Bitstream (large binary, regenerate from source)
+*.bit
+*.bin
+
+# Compiled C files
+*.o
+*.elf
